@@ -1,0 +1,23 @@
+# Dependencies
+**/node_modules/
+
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+**/*.log
+
+# OS files
+.DS_Store
+
+# Exclude other versions and test files
+Bagian_1_other_versions/
+Bagian_2_other_versions/
+Bagian_1.md
+Bagian_2.md
+Tes Online Fullstack Developer 2026.pdf
+
+# Test results (generated files)
+**/test-results-actual.txt
