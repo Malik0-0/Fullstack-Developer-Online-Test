@@ -1,6 +1,6 @@
 # Fullstack Developer Online Test
 
-Solusi untuk tes online Fullstack Developer dari Kampung Inggris Bandung.
+Solusi untuk tes online Fullstack Developer.
 
 Repository ini berisi dua bagian solusi:
 
@@ -130,18 +130,6 @@ npm start
 - Bagian 1 fokus pada algoritma dan implementasi manual
 - Bagian 2 fokus pada REST API development dengan best practices
 - Semua kode sudah diuji dan siap digunakan
-
----
-
-## 📄 License
-
-Repository ini dibuat sebagai solusi untuk tes online Fullstack Developer.
-
----
-
-## 👤 Author
-
-Dibuat sebagai bagian dari proses seleksi Fullstack Developer di Kampung Inggris Bandung.
 
 ---
 
